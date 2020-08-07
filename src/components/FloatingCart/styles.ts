@@ -34,6 +34,7 @@ export const CartButton = styled.TouchableOpacity`
 
 export const CartButtonText = styled.Text`
   font-weight: bold;
+  font-size: 16px;
   color: #fff;
   margin-left: 15px;
   flex: 1;
